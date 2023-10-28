@@ -1,2 +1,3 @@
 # Identification-of-place-names-from-a-natural-language-sentence
 This is used to identify place names from a sentence and will specify what it is.
+This is a  geospatial querying system based on natural language requires identifying geospatial entities by their names. The scope of this work involves automatically identifying names of places from a sentence. A universe of canonical names (single way of spelling and correct spelling) will be provided in the form of tables. For example, a Country, City and State table containing the possible universe of names. It corrects spelling errors in the names and multiple ways of spelling and mentioning the same entity in the query and map it to a canonical name. 
